@@ -1,0 +1,409 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.autohome.com.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 319768,
+            "children": [
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/series/g26/M00/AF/E7/autohomecar__wKgHHVs9u6mAaY6mAAA2M840O5c440.png",
+                    "path": "img/autohomecar__wKgHHVs9u6mAaY6mAAA2M840O5c440.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g6/M08/9D/76/380x285_0_q87_autohomecar__Chxkj2FDRrWAOvB6AC0hik0Kt9E458.jpg",
+                    "path": "img/380x285_0_q87_autohomecar__Chxkj2FDRrWAOvB6AC0hik0Kt9E458.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/www/common/images/blank.gif",
+                    "path": "img/blank.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/www/common/images/series_zhidao.png",
+                    "path": "img/series_zhidao.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://x.autoimg.cn/space/images/head_50X50.png",
+                    "path": "img/head_50X50.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g6/M08/9D/76/760x570_0_q87_autohomecar__Chxkj2FDRrWAOvB6AC0hik0Kt9E458.jpg",
+                    "path": "img/760x570_0_q87_autohomecar__Chxkj2FDRrWAOvB6AC0hik0Kt9E458.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://img3.autoimg.cn/pano/g24/M00/A3/63/89x67_q100_c42_autohomecar__ChwFjmB4GbWAKLC-AAJnV255pZw839.jpg",
+                    "path": "img/89x67_q100_c42_autohomecar__ChwFjmB4GbWAKLC-AAJnV255pZw839.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www2.autoimg.cn/zxpt/g24/M04/AA/AC/89x67_0_autohomecar__ChwFjmB4L4WAZG7cAAGSV5Fkww4999.jpg",
+                    "path": "img/89x67_0_autohomecar__ChwFjmB4L4WAZG7cAAGSV5Fkww4999.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M15/42/54/s_autohomecar__ChxkkGE5kT2AO63iAA9nMXlY9F4019.jpg",
+                    "path": "img/s_autohomecar__ChxkkGE5kT2AO63iAA9nMXlY9F4019.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M0F/42/59/s_autohomecar__ChxkkGE5kV2AWTxYAAzTvPqqY8w696.jpg",
+                    "path": "img/s_autohomecar__ChxkkGE5kV2AWTxYAAzTvPqqY8w696.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M00/42/4E/s_autohomecar__ChxkkGE5kROAQGdXAA5o92nkgJs155.jpg",
+                    "path": "img/s_autohomecar__ChxkkGE5kROAQGdXAA5o92nkgJs155.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://club2.autoimg.cn/album/g7/M0D/61/B0/userphotos/2021/09/27/20/240q_ChwEmWFRudqACvJjAABRlKFz2Ls077.jpg",
+                    "path": "img/240q_ChwEmWFRudqACvJjAABRlKFz2Ls077.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://club2.autoimg.cn/album/g7/M13/60/D7/userphotos/2021/09/27/20/240q_ChwEmWFRsmyAHMtMAABKHkvXjGY658.jpg",
+                    "path": "img/240q_ChwEmWFRsmyAHMtMAABKHkvXjGY658.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www2.autoimg.cn/soudfs/g4/M0E/D9/B1/330x0_q87_c42_autohomecar__ChwElmEeCz-AG608AABhaqDQQYk882.jpg",
+                    "path": "img/330x0_q87_c42_autohomecar__ChwElmEeCz-AG608AABhaqDQQYk882.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www2.autoimg.cn/chejiahaodfs/g7/M13/98/C0/330x0_q87_c42_autohomecar__ChsEvmFTvOqAAY8zAAoka5ry4as607.png",
+                    "path": "img/330x0_q87_c42_autohomecar__ChsEvmFTvOqAAY8zAAoka5ry4as607.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www3.autoimg.cn/chejiahaodfs/g7/M04/DC/4C/330x0_q87_c42_autohomecar__Chxks2FR4mKADjHGAAJsAm-OeHI203.jpg",
+                    "path": "img/330x0_q87_c42_autohomecar__Chxks2FR4mKADjHGAAJsAm-OeHI203.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www3.autoimg.cn/newsdfs/g30/M00/00/75/330x0_q87_c42_autohomecar__wKgHPltOyb6AR-UzAAF9XqNkq9w192.jpg",
+                    "path": "img/330x0_q87_c42_autohomecar__wKgHPltOyb6AR-UzAAF9XqNkq9w192.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M0E/42/49/500x375_f40_autohomecar__ChxkkGE5kOeAT-tWABerl7Xqxys026.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kOeAT-tWABerl7Xqxys026.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M06/42/49/500x375_f40_autohomecar__ChxkkGE5kOWAPnvFABmcJt0UMfE900.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kOWAPnvFABmcJt0UMfE900.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M08/42/48/500x375_f40_autohomecar__ChxkkGE5kOSAE7DPABio-RnkPE0684.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kOSAE7DPABio-RnkPE0684.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M00/42/4E/500x375_f40_autohomecar__ChxkkGE5kROAQGdXAA5o92nkgJs155.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kROAQGdXAA5o92nkgJs155.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M03/76/34/500x375_f40_autohomecar__ChwEl2E5kPWAQWX3ABO7Ng35BIQ051.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChwEl2E5kPWAQWX3ABO7Ng35BIQ051.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M0F/42/59/500x375_f40_autohomecar__ChxkkGE5kV2AWTxYAAzTvPqqY8w696.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kV2AWTxYAAzTvPqqY8w696.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car2.autoimg.cn/cardfs/product/g5/M15/42/58/500x375_f40_autohomecar__ChxkkGE5kVeAOguZAAkxZKWz8uI909.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kVeAOguZAAkxZKWz8uI909.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M15/42/54/500x375_f40_autohomecar__ChxkkGE5kT2AO63iAA9nMXlY9F4019.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChxkkGE5kT2AO63iAA9nMXlY9F4019.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://car3.autoimg.cn/cardfs/product/g5/M03/76/35/500x375_f40_autohomecar__ChsF3WE5kTCADcMPAA-jDvhvnWo917.jpg",
+                    "path": "img/500x375_f40_autohomecar__ChsF3WE5kTCADcMPAA-jDvhvnWo917.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www3.autoimg.cn/chejiahaodfs/g7/M04/DC/4C/200x0_q87_c43_autohomecar__Chxks2FR4mKADjHGAAJsAm-OeHI203.jpg",
+                    "path": "img/200x0_q87_c43_autohomecar__Chxks2FR4mKADjHGAAJsAm-OeHI203.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www2.autoimg.cn/chejiahaodfs/g7/M0C/D9/6B/200x0_q87_c43_autohomecar__Chxks2FRx_-AMap2AAoxu5y0OHQ073.png",
+                    "path": "img/200x0_q87_c43_autohomecar__Chxks2FRx_-AMap2AAoxu5y0OHQ073.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www3.autoimg.cn/chejiahaodfs/g7/M0D/56/5B/200x0_q87_c43_autohomecar__ChwEmWFRZtSAB8bGAAO4kB_ewiU571.png",
+                    "path": "img/200x0_q87_c43_autohomecar__ChwEmWFRZtSAB8bGAAO4kB_ewiU571.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www3.autoimg.cn/chejiahaodfs/g7/M00/B3/97/200x0_q87_c43_autohomecar__Chxks2FQgcWAX2QfABIBNsL3OBE758.png",
+                    "path": "img/200x0_q87_c43_autohomecar__Chxks2FQgcWAX2QfABIBNsL3OBE758.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://x.autoimg.cn/bi/mda/ahas_head.min.js?v=20180205",
+                    "path": "js/ahas_head.min.js",
+                    "saved": true,
+                    "size": 3935,
+                    "children": []
+                },
+                {
+                    "url": "https://x.autoimg.cn/com/co.ashx?path=/as/auto-0.1.1.min.js,/news/js/jserror20170724.js&v=201905150940",
+                    "path": "js/co_1.js",
+                    "saved": true,
+                    "size": 3391,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/com/co.ashx?path=/as/seajs/2.3.0/bundle.js,/as/jquery/1.12.4/jquery.js,/fe/citypicker/home/citypicker.js&20190515",
+                    "path": "js/co.js",
+                    "saved": true,
+                    "size": 112973,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/www/site/series/js/common.js?v=20190515",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 21405,
+                    "children": []
+                },
+                {
+                    "url": "https://x.autoimg.cn/www/common/js/areautil.js?v=20190530",
+                    "path": "js/areautil.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js&20200106",
+                    "path": "js/co_2.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/comu/co.ashx?path=/club/forums_pc/statics/js/imclient.js,/club/hotchatrooms/vue/js/vue.2.5.15.min.js,/club/hotchatrooms/vue/js/vuex.3.0.1.min.js&20200106",
+                    "path": "js/co_3.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://x.autoimg.cn/dealer/dealerm/dist/pro/widget/PcDealerIcsOrderPopup.auto.generate.js?v=20210929",
+                    "path": "js/PcDealerIcsOrderPopup.auto.generate.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://vr.autohome.com.cn/vr/js/vrURL.js?v=2018080610",
+                    "path": "js/vrURL.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://s.autoimg.cn/car/site/series/css/index.css?20210901",
+                    "path": "css/index.css",
+                    "saved": true,
+                    "size": 102491,
+                    "children": [
+                        {
+                            "url": "https://s.autoimg.cn/mass/font/DINAlternate-Bold.ttf",
+                            "path": "fonts/DINAlternate-Bold.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/as/static/holdimg_white.png",
+                            "path": "img/holdimg_white.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/www/site/widget/font/iconfont.eot?t=1528183564781",
+                            "path": "fonts/iconfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/www/site/widget/font/iconfont.ttf?t=1527843651146",
+                            "path": "fonts/iconfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/www/site/widget/font/iconfont.svg?t=1528183564781#athm-iconfont",
+                            "path": "img/iconfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/car/site/core/images/athm-iconpng.png?v=1",
+                            "path": "img/athm-iconpng.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/car/site/core/images/athm-iconpng-vr.png",
+                            "path": "img/athm-iconpng-vr.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://s.autoimg.cn/as/static/monkey.png",
+                            "path": "img/monkey.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-autohome-com-cn-sba5fcoe",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://s.autoimg.cn/car/site/series/css/index.css?20210901",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://www.autohome.com.cn/2723/",
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html; charset=gb2312",
+                "content-length": "329585",
+                "connection": "close",
+                "server": "openresty",
+                "date": "Wed, 29 Sep 2021 07:41:52 GMT",
+                "expires": "Wed, 29 Sep 2021 07:56:52 GMT",
+                "age": "238",
+                "cache-control": "public, max-age=900",
+                "accept-ranges": "bytes",
+                "vary": "Accept-Encoding",
+                "x-cache-status": "HIT from KS-CLOUD-JN-MP-13-08, HIT from KS-CLOUD-FZ-CT-04-21, MISS from KS-CLOUD-WH-CT-15-05",
+                "x-cdn-request-id": "0a42c096a08fefd3326854217361b56a"
+            }
+        },
+        "time": {
+            "start": "2021-09-29T07:45:46.097Z",
+            "end": "2021-09-29T07:46:39.473Z"
+        },
+        "remark": [],
+        "ip": "58.49.180.1",
+        "url": "https://www.autohome.com.cn/2723/",
+        "main": "index.html",
+        "domain": "www.autohome.com.cn",
+        "origin": "https://www.autohome.com.cn",
+        "totalSize": "564 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://www.autohome.com.cn/2723/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
